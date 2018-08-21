@@ -1,0 +1,12 @@
+package com.lairf.lairfspringbootstarter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LairfSpringbootStarterApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LairfSpringbootStarterApplication.class, args);
+	}
+}
